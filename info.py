@@ -25,10 +25,10 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 USERNAME = environ.get('USERNAME', 'https://telegram.me/Movie_Dawnload_Hub_bot')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002419356636'))
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002462984918').split()]
-DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_URI2 = environ.get('DATABASE_URI2', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "dawnloadhub")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'dawnloadhub')
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Amar9413:Amar9413@amar9413.lkdnu.mongodb.net/?retryWrites=true&w=majority&appName=Amar9413")
+DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://Dawnload94:Dawnload94@cluster0.ursfl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Amar9413")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'vjcollection')
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002494510100'))
 QR_CODE = environ.get('QR_CODE', 'https://jpg')
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1002295348071').split()]
