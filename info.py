@@ -39,7 +39,7 @@ URL = environ.get('URL', '')
 
 # verify system vars
 IS_VERIFY = is_enabled('IS_VERIFY', True)
-LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', ''))
+LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002252663238'))
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/MovieDawnloadHub_Tutorial")
 TUTORIAL2 = environ.get("TUTORIAL2", "https://t.me/MovieDawnloadHub_Tutorial")
 TUTORIAL3 = environ.get("TUTORIAL3", "https://t.me/MovieDawnloadHub_Tutorial")
