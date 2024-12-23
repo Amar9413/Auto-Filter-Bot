@@ -52,7 +52,7 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<b><a href=https://telegram.me/RahulReviewsYT>{file_name} </a></b>
+    FILE_CAPTION = """<b><a href=https://telegram.me/MovieDawnloadHub>{file_name} </a></b>
 
 <i>ᴘʟᴇᴀsᴇ ꜰᴏʀᴡᴀʀᴅ ᴛʜɪs ꜰɪʟᴇs ᴛᴏ ᴛʜᴇ sᴀᴠᴇᴅ ᴍᴇssᴀɢᴇ ᴀɴᴅ ᴄʟᴏsᴇ ᴛʜɪs ᴍᴇssᴀɢᴇ</i>"""
 
@@ -85,10 +85,10 @@ User - {}"""
 
     PREMIUM_TEXT = """<b><i><blockquote>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs  ♻️</blockquote>
 
-• 𝟷 ᴡᴇᴇᴋ  -  ₹𝟹𝟶
-• 𝟷 ᴍᴏɴᴛʜ  -  ₹𝟻𝟶
-• 𝟹 ᴍᴏɴᴛʜs  -  ₹𝟷𝟶𝟶
-• 𝟼 ᴍᴏɴᴛʜs  -  ₹𝟸𝟶𝟶
+• 𝟷 ᴡᴇᴇᴋ  -  ₹10
+• 𝟷 ᴍᴏɴᴛʜ  -  ₹30
+• 𝟹 ᴍᴏɴᴛʜs  -  ₹50
+• 𝟼 ᴍᴏɴᴛʜs  -  ₹90
 
 •─────•─────────•─────•
 <blockquote>ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇs  🎁</blockquote>
@@ -104,7 +104,7 @@ User - {}"""
 •─────•─────────•─────•
 
 
-✨ ᴜᴘɪ ɪᴅ - <code>RahulReviews@UPI</code>
+✨ ᴜᴘɪ ɪᴅ - <code>UPI</code>
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ  /myplan
 
@@ -229,5 +229,5 @@ User - {}"""
 
 ❣️ 𝐷𝑜𝑛𝑎𝑡𝑖𝑜𝑛𝑠 𝑎𝑟𝑒 𝑟𝑒𝑎𝑙𝑙𝑦 𝑎𝑝𝑝𝑟𝑒𝑐𝑖𝑎𝑡𝑒𝑑 𝑖𝑡 ℎ𝑒𝑙𝑝𝑠 𝑖𝑛 𝑏𝑜𝑡 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡
 
-💖 𝐔𝐏𝐈 𝐈𝐃 : <code>RahulReviews@UPI</code>
+💖 𝐔𝐏𝐈 𝐈𝐃 : <code>UPI</code>
 """
